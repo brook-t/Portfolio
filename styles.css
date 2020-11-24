@@ -24,7 +24,7 @@ body {
     background-color: orange;
   }
 
-  a[href="https://www.youtube.com/watch?v=h6fcK_fRYaI&ab_channel=Kurzgesagt%E2%80%93InaNutshell"]{
+  a[href="about-me.html"]{
     background-color: orange;
   }
 
@@ -43,5 +43,5 @@ body {
     border-style: dashed;
     border-color: orange;
     border-width: 3px;
-    width: 100%;
+    width: 75%;
   }
