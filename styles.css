@@ -3,33 +3,52 @@ color: #07820b;
 }
 
 p {
-  color: #518252;
+  color: #033303;
 }
 
 body {
-  background-color: #d6a190;
+  background-color: #f9edfc;
 }
+
+header {
+  color: #033303;
+}
+
 .green-text {
   color: green;
 }
+
 .important{
   font-weight: bold;
 }
+
 #lead-paragraph {
   color: green;
   font-weight: bold;
   }
 
   .important:hover {
-    background-color: #07820b;
+    background-color: #033303;
   }
 
-  a[href="about-me.html"]{
-    background-color: #07820b;
+  a[href="index.html"]{
+    background-color: #d1ffd1;
+  }
+
+  a[href="https://en.wikipedia.org/wiki/Mike_Brodie"]{
+    background-color: #d1ffd1;
+  }
+
+  a[href="https://en.wikipedia.org/wiki/Ansel_Adams"]{
+    background-color: #d1ffd1;
+  }
+
+  a[href="https://en.wikipedia.org/wiki/Diane_Arbus"]{
+    background-color: #d1ffd1;
   }
 
   h1 {
-    color: #518252;
+    color: #033303;
     border-style: solid;
     border-width: 1px;
     border-color: #07820b;
